@@ -1,0 +1,35 @@
+{
+  "version" : "1.0.1",
+  "name" : "gradle-example-minimal",
+  "number" : "1521531172355",
+  "type" : "GRADLE",
+  "buildAgent" : {
+    "name" : "Gradle",
+    "version" : "2.14.1"
+  },
+  "agent" : {
+    "name" : "Gradle",
+    "version" : "2.14.1"
+  },
+  "started" : "2018-03-20T13:02:51.276+0530",
+  "durationMillis" : 1292,
+  "principal" : "Rajesh",
+  "artifactoryPrincipal" : "admin",
+  "artifactoryPluginVersion" : "Unknown",
+  "vcs" : [ ],
+  "licenseControl" : {
+    "runChecks" : false,
+    "includePublishedArtifacts" : false,
+    "autoDiscover" : false,
+    "scopesList" : "",
+    "licenseViolationsRecipientsList" : ""
+  },
+  "governance" : {
+    "blackDuckProperties" : {
+      "runChecks" : false,
+      "includePublishedArtifacts" : false,
+      "autoCreateMissingComponentRequests" : false,
+      "autoDiscardStaleComponentRequests" : false
+    }
+  }
+}
